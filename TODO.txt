@@ -1,0 +1,17 @@
+Questions to Answer:
+1. Why did the framers put the electoral college in place?
+2. Since our current system was put in place what has been the variation in relative voter worth up to the present?
+3. If after the 1990 census the number of house reps had been increased to the per-capita rate as the 1911 increase, how many reps would each state get?
+4. What would the presidential outcome be in the 2000-2016 presidential elections if this increase had happened?
+5. What would happen if every state made split votes like Maine and Nebraska? Do they have an currently have an effect on the national outcome?
+6. How does the relative weight of each voter affect the economics of campaigining - what becomes the most efficient use of campaign spending? E.G. If every vote is equal at the national level does campaigning make sense outside of the most populated areas, effectively only giving voice to the most heavily populated areas compared to now.
+
+Things to Do:
+1. Implement the algorithm currently in use to apportion reps. Use 1990->2018 actual apportionment as unit test.
+2. Ingest census data from 1990, 2000, and 2010 for national and state levels
+3. Ingest vote outcomes for national and state levels for 2000, 2004, 2008, 2012, and 2016 elections
+4. Determine rep apportionment after 1990, 2000, and 2010 census. Use actuals as unit test. Ref Q3
+5. Calculate relative voter worth per state. Use actuals as unit test. Ref Q2
+6. Determine electoral college outcome in 2000, 2004, 2008, 2012, and 2016 elections. Note Maine/Nebraska split votes based on state election outcomes but others don't. Use actuals as unit test. Ref Q4
+7. Run simulated outcomes for the following changes: Every state spliting electoral votes like Maine/Nebraska at current numbers, Maine/Nebraska using the state majority vote at current numbers, every state splitting electoral votes at increased numbers, Maine/Nebraska using state majority vote at increased numbers. Ref Q5.
+8. Figure out how to calculate campaign travel related to voter weight currently then extrapolate. Ref Q6.
