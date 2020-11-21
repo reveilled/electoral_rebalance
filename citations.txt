@@ -1,0 +1,11 @@
+@incollection{DVN/42MVDX/MFU99O_2017,
+author = {MIT Election Data and Science Lab},
+publisher = {Harvard Dataverse},
+title = {1976-2016-president.tab},
+booktitle = {U.S. President 1976–2016},
+UNF = {UNF:6:Mw0hOUHAijKPTVRAe5jJvg==},
+year = {2017},
+version = {V5},
+doi = {10.7910/DVN/42MVDX/MFU99O},
+url = {https://doi.org/10.7910/DVN/42MVDX/MFU99O}
+}
